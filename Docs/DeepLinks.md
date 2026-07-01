@@ -78,10 +78,5 @@ https://actionhub.app/.well-known/apple-app-site-association
 
 `ActionDetailView` displays deep and universal URLs with copy buttons (`UIPasteboard`).
 
-## Future work
-
-- Share sheet for action links
-- QR code generation
-- Documented URL scheme for third-party integrations
 
 See [ROADMAP.md](../ROADMAP.md).
