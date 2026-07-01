@@ -51,10 +51,5 @@ Registered in `ActionHubApp`:
 
 `ActionEntity` conforms to `IndexedEntity` for App Intents system indexing (separate from Core Spotlight but complementary for Shortcuts discovery).
 
-## Future work
-
-- Throttle reindex on launch for large libraries
-- Background indexing only when data changes
-- Deletion of stale items when App Group store is reset
 
 See [ROADMAP.md](../ROADMAP.md).
