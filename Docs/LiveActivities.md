@@ -54,10 +54,5 @@ Tapping the activity opens the app via deep link to the action (`DeepLinkURLBuil
 
 `ActionLiveActivityManager` tracks active activities per action ID and ends duplicates before starting a new run.
 
-## Future work
-
-- Push-updated Live Activities (`pushType` currently `nil`)
-- User preference to disable Live Activities per action
-- Failed run paths with explicit `.failed` phase from errors
 
 See [ROADMAP.md](../ROADMAP.md).
