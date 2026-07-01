@@ -45,7 +45,7 @@ an individual is officially representing the community in public spaces.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the project maintainers at **security@actionhub.app** (replace with
+reported to the project maintainers at **khansadaf786@gmail.com** (replace with
 your contact email before publishing).
 
 All complaints will be reviewed and investigated promptly and fairly.
