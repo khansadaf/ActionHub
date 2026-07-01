@@ -8,9 +8,11 @@ Built with **SwiftUI**, **SwiftData**, and **MVVM**.
 
 > Screenshots coming soon. Add images to [`Docs/assets/`](Docs/assets/README.md) and update this section before your first public release.
 
-| Home | Detail | Widget |
-|------|--------|--------|
-| _Coming soon_ | _Coming soon_ | _Coming soon_ |
+## 📱 Screenshots
+
+| Home | Detail | Widget | Shortcuts
+|------|--------|--------|----------|
+| ![](Docs/assets/home.png) | ![](Docs/assets/detail.png) | ![](Docs/assets/widget.png) | ![](Docs/assets/shortcuts.png) |
 
 ---
 
