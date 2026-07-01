@@ -51,10 +51,5 @@ When a shortcut requires an action parameter, Siri and Shortcuts use `ActionEnti
 - [AppIntents.md](AppIntents.md)
 - [Widgets.md](Widgets.md)
 
-## Future work
-
-- Localized shortcut phrases
-- Spotlight-style suggested shortcuts on first launch
-- User-editable voice phrases per action
 
 See [ROADMAP.md](../ROADMAP.md).
