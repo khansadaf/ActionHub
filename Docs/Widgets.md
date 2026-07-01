@@ -57,10 +57,5 @@ The widget reads the same App Group SwiftData store as the main app.
 
 Widget extension uses the same App Group: `group.com.sadaf.ActionHub`.
 
-## Future work
-
-- Configurable widget (pick which favorites to show)
-- Small family widget
-- Lock Screen widget variants
 
 See [ROADMAP.md](../ROADMAP.md).
