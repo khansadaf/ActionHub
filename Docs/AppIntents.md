@@ -63,10 +63,4 @@ The Favorite Actions widget uses `RunActionIntent` and `FavoriteActionIntent` as
 2. Open the **Shortcuts** app → **App Shortcuts** → ActionHub.
 3. Or add actions from the Shortcuts editor using the ActionHub app entity.
 
-## Future work
-
-- Additional intents (toggle enabled, reorder actions)
-- Intent parameters for category selection
-- Localized intent titles and phrases
-
 See [ROADMAP.md](../ROADMAP.md).
