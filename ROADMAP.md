@@ -43,46 +43,8 @@ This roadmap reflects the **actual state of the codebase**. Items are not marked
 
 ---
 
-## In Progress
-
-- [ ] Repository publication (GitHub remote, screenshots, maintainer contact emails)
-- [ ] Replace `YOUR_USERNAME` placeholders in README and CHANGELOG
-
----
-
-## Planned
-
-### App features
-
-- [ ] Action editing UI (title, details, notes, enabled state)
-- [ ] Category creation and assignment UI
-- [ ] Onboarding / first-run experience
-- [ ] Settings screen (App Group diagnostics, reindex Spotlight, about)
-
-### Quality
-
-- [ ] Wire `ActionHubTests` to an Xcode unit test target
-- [ ] Unit tests for `DeepLinkParser`, `ActionSearchFilter`, `ActionRepository`
-- [ ] UI tests for home and detail flows
-- [ ] Swift 6 language mode migration (project currently uses Swift 5.0)
-
-### Distribution
-
-- [ ] Host `apple-app-site-association` on `actionhub.app` for production Universal Links
-- [ ] App Store metadata and screenshots
-- [ ] TestFlight beta channel
-
-### Future work (not started)
-
-- [ ] iCloud sync across devices
-- [ ] Action templates / import-export
-- [ ] macOS or watchOS companions
-- [ ] Localization (strings currently inline / `ActionHubCopy`)
-
----
-
 ## How to propose changes
 
-Open a [feature request](.github/ISSUE_TEMPLATE/feature_request.md) or comment on an existing issue before starting large features.
+Open a [feature request](https://github.com/khansadaf/ActionHub/issues) or comment on an existing issue before starting large features.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for development guidelines.
