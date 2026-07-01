@@ -34,7 +34,7 @@ Example: `feature/action-edit-form`
 2. Make incremental changes; avoid large unrelated refactors.
 3. Ensure the project **builds cleanly** (`⌘B` or `xcodebuild`).
 4. Update documentation if you add or change user-facing behavior.
-5. Fill out the [pull request template](.github/pull_request_template.md).
+5. Fill out the [pull request](https://github.com/khansadaf/ActionHub/pulls).
 6. Link related issues when applicable.
 
 ## Code guidelines
@@ -69,7 +69,7 @@ Do **not** document features that are not implemented.
 
 ## Reporting bugs
 
-Use the [bug report template](.github/ISSUE_TEMPLATE/bug_report.md).
+Use the [bug report](https://github.com/khansadaf/ActionHub/issues).
 
 Include:
 
@@ -81,11 +81,11 @@ Include:
 
 ## Feature requests
 
-Use the [feature request template](.github/ISSUE_TEMPLATE/feature_request.md).
+Use the [feature request](https://github.com/khansadaf/ActionHub/issues).
 
 ## Questions
 
-Open a [GitHub Discussion](https://github.com/YOUR_USERNAME/ActionHub/discussions) (enable Discussions in repository settings) or file an issue labeled `question`.
+Open a [GitHub Discussion](https://github.com/khansadaf/ActionHub/discussions) (enable Discussions in repository settings) or file an issue labeled `question`.
 
 ## License
 
