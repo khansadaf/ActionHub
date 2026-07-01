@@ -57,14 +57,3 @@ Views observe ViewModels with `@State private var viewModel = ExampleViewModel()
 - **Build after every feature** — Run a successful build (`⌘B` or `xcodebuild`) before considering a feature done.
 - **Don't break existing code** — Preserve current behavior unless the task explicitly changes it. Prefer incremental refactors over large rewrites.
 
-## Checklist (new feature)
-
-- [ ] Swift 6 / strict concurrency satisfied
-- [ ] SwiftUI + MVVM + `@Observable` ViewModel
-- [ ] SwiftData model changes migrated safely
-- [ ] App Intent added if the action is user-exposed to the system
-- [ ] Reusable components extracted where UI repeats
-- [ ] No unnecessary UIKit
-- [ ] No duplicated logic or views
-- [ ] Project builds cleanly
-- [ ] Existing features still work
