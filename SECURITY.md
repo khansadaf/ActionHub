@@ -13,7 +13,7 @@
 
 If you discover a security issue, report it privately:
 
-1. Email the maintainers (replace before publishing): **security@actionhub.app**
+1. Email the maintainers: **khansadaf786@gmail.com**
 2. Include a clear description, steps to reproduce, and impact assessment.
 3. Allow reasonable time for a fix before public disclosure.
 
