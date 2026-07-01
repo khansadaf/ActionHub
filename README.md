@@ -4,10 +4,6 @@ ActionHub is an iOS app for creating, organizing, and running reusable **actions
 
 Built with **SwiftUI**, **SwiftData**, and **MVVM**.
 
-## Screenshots
-
-> Screenshots coming soon. Add images to [`Docs/assets/`](Docs/assets/README.md) and update this section before your first public release.
-
 ## 📱 Screenshots
 
 | Home | Detail | Widget | Shortcuts
@@ -114,7 +110,7 @@ Simulator or device running **iOS 18+**.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ActionHub.git
+git clone https://github.com/khansadaf/ActionHub.git
 cd ActionHub
 ```
 
