@@ -37,5 +37,5 @@ Initial implementation.
 - App Group shared SwiftData store
 - `NavigationSplitView` root with deep link routing
 
-[Unreleased]: https://github.com/YOUR_USERNAME/ActionHub/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/YOUR_USERNAME/ActionHub/releases/tag/v0.1.0
+[Unreleased]: https://github.com/khansadaf/ActionHub/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/khansadaf/ActionHub/releases/tag/v0.1.0
