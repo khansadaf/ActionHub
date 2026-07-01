@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "TEAMID.com.sadaf.ActionHub"
+        ],
+        "paths": [
+          "/actions",
+          "/actions/*",
+          "/favorites"
+        ]
+      }
+    ]
+  }
+}
